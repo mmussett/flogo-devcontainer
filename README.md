@@ -1,6 +1,6 @@
 # flogo-devcontainer
 
-# Instructions for using DevContainer for Flogo.
+## Instructions for using DevContainer for Flogo.
 
 
 1. Place your downloaded flogo-vscode-linux-x64.vsix file in the .devcontainer/extensions folder.
