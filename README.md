@@ -11,7 +11,7 @@
  "${containerWorkspaceFolder}/.devcontainer/extensions/flogo-vscode-linux-x64-1.2.0-836.vsix"
 ```
 
-3. Run the command Dev Containers: Rebuild and Reopen in Container command
+3. Run the command (CTRL+SHIFT+P) Dev Containers: Rebuild and Reopen in Container command
 
 4. Enjoy Flogo from within your devcontainer!
 
