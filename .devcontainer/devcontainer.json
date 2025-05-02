@@ -10,17 +10,12 @@
       "onAutoForward": "ignore"
     },
     "features": {
-      "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {}
     },
     "customizations": {
       "vscode": {
         "extensions": [
-          "ms-azuretools.vscode-azurefunctions",
           "golang.go",
-          "ms-vscode.azurecli",
           "${containerWorkspaceFolder}/.devcontainer/extensions/flogo-vscode-linux-x64-1.2.0-836.vsix"
-
-
         ]
       }
     }
