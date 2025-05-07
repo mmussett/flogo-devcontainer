@@ -6,6 +6,8 @@ services:
     platform: linux/amd64
     volumes:
       - ../..:/workspaces:cached
+      - ../../vsc-extensions:/vsc-extensions
+      - ../../flogo-extensions:/flogo-extensions
     command: sleep infinity
     network_mode: service:azurite
 
